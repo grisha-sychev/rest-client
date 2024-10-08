@@ -11,7 +11,7 @@ replace Psr/HttpClient):
 ## Install
 
 ```shell
-composer require paveldanilin/rest-client
+composer require restmaster/restmaster
 ```
 
 ## Quick Examples
